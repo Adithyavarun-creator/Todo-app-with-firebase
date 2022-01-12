@@ -1,3 +1,6 @@
+A list of Todo frontend App with CRUD operations performed and the list are stored in Firebase as backend
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
